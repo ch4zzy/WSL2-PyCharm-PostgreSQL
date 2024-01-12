@@ -1,5 +1,5 @@
 # WSL2-PyCharm-PostgreSQL
-**How to connect to postgresql database which is installed in WSL2 from Pycharm or other JetBrains products?**
+**How to connect to PostgreSQL database which is installed in WSL2 from Pycharm or other JetBrains products?**
 
 After creating a postgresql database in WSL2 and trying to connect to it from PyCharm or another JetBrains product, you may encounter problem `[28P01]`.
 
